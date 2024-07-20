@@ -1,0 +1,8 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "demo/drivers/mysql-connector-j-8.2.0.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
